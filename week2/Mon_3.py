@@ -1,8 +1,8 @@
 #피보나치 순열
-def solution(x):
+def fibonacci(x):
     answer = 0
     if x < 2:
         return x
     else:
-        return solution(x-1) + solution(x-2)
+        return fibonacci(x-1) + fibonacci(x-2)
     return answer

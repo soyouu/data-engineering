@@ -1,5 +1,5 @@
 #이진탐색 알고리즘
-def solution(L, x):
+def binary_search(L, x):
     answer = -1
     start = 0
     end = len(L) - 1
