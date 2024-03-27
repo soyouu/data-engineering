@@ -1,6 +1,5 @@
 #양방향 연결 리스트로 구현한 스택
-from doublylinkedlist import Node
-from doublylinkedlist import DoublyLinkedList
+from doublelinkedlist import Node, DoublyLinkedList
 
 class LinkedListStack:
     def __init__(self):
