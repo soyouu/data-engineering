@@ -3,6 +3,7 @@ job_title,job_role,tech_stack
 주니어 Software Engineer (Product),"웹 풀스택, 머신러닝, 인공지능(AI)","['Rust', 'C++', 'Java']"
 Software Engineer (Product),"웹 풀스택, 머신러닝, 인공지능(AI)","['Rust', 'C++', 'Java']"
 시니어 Software Engineer (Frontend),"프론트엔드, 머신러닝, 인공지능(AI)","['Rust', 'C++', 'Java']"
+주니어 Software Engineer (Frontend),"프론트엔드, 머신러닝, 인공지능(AI)","['Rust', 'C++', 'Java']"
 Software Engineer (Frontend),"프론트엔드, 머신러닝, 인공지능(AI)","['Rust', 'C++', 'Java']"
 시니어 Software Engineer (Data),"머신러닝, 인공지능(AI), 데이터 엔지니어링","['Rust', 'C++', 'Java']"
 주니어 Software Engineer (Data),"머신러닝, 인공지능(AI), 데이터 엔지니어링","['Rust', 'C++', 'Java']"
@@ -38,7 +39,6 @@ iOS 엔지니어 (iOS Engineer),"안드로이드, iOS",[]
 [Blockchain] Backend Engineer,"서버/백엔드, 블록체인","['Git', 'Linux', 'Solidity', 'MongoDB', 'Go', 'Redis', 'GCP(Google Cloud Platform)']"
 "Backend 개발자 구인(Django) (경력, 3년차이상)",서버/백엔드,[]
 "귀여운 슬라임 주디 유니티 2D 클라이언트 개발자 (경력, 3년이상)","모바일 게임, 게임 클라이언트",[]
-데이터 엔지니어,데이터 엔지니어링,"['OpenCV', 'Machine Vision', 'NoSQL', 'PyTorch', 'Tensorflow', 'Docker', 'ML Kit', 'C++', 'C', 'CUDA', 'Big Data', 'Apache Kafka']"
 3D 딥러닝 엔지니어,"머신러닝, VR/AR/3D","['3Ds Max', 'PyTorch', 'Docker', 'Kubernetes']"
 [디스민즈워] QA 테스터(PC/Console),"QA, 크로스 플랫폼",['JIRA']
 AI Engineer / LLM / ASR,"머신러닝, 인공지능(AI)","['Python', 'Pandas', 'Docker', 'PyTorch', 'NLP']"
@@ -87,3 +87,38 @@ Product Owner - Hotel,개발PM,[]
 백엔드 엔지니어 (서버),"서버/백엔드, 모바일 게임, 시스템/네트워크","['C', 'C++', 'JavaScript', 'Go', 'AWS EC2', 'Kubernetes', 'AWS EKS', 'AWS RDS']"
 Software Engineer - Java / Oneday Interview,시스템 소프트웨어,"['Java', 'Spring', 'CI/CD']"
 Product Owner - New Biz,개발PM,[]
+[감독솔루션팀]BE개발자,서버/백엔드,"['Ruby on Rails', 'Redis', 'PostgreSQL', 'Docker', 'AWS Lambda', 'AWS DynamoDB', 'Python']"
+Software Engineer - Search,"서버/백엔드, 시스템 소프트웨어",[]
+Data Analyst,시스템/네트워크,[]
+테스트 친구들 모여라,"시스템/네트워크, 인터넷 보안",[]
+"모루인형 서비스 백앤드 개발자 영입 (zyeon/베이직 채담자, test 일반)",상시 채용,[]
+System Trading Developer,서버/백엔드,"['C++', 'Python', 'C#', 'MySQL', 'Java']"
+클라이언트 개발자 채용 (경력),게임 클라이언트,[]
+"Junior Software Engineer, Back-end - Outbound","서버/백엔드, 시스템 소프트웨어",[]
+"Senior Software Engineer, Back-end - Outbound","서버/백엔드, 시스템 소프트웨어","['Java', 'Spring', 'SQL']"
+애플리케이션 아키텍트 담당자,"시스템/네트워크, 시스템 소프트웨어, 응용 프로그램",[]
+AI 모델 유지관리를 위한 데이터 매니저,"머신러닝, 데이터 엔지니어링","['Python', 'YOLO']"
+인공지능 인지(PERCEPTION)모델 및 학습기법 연구개발 및 운영,"머신러닝, 인공지능(AI), 데이터 엔지니어링","['Python', 'C++']"
+AI/ML 연구원,"머신러닝, 인공지능(AI), 데이터 엔지니어링","['Python', 'Tensorflow', 'PyTorch']"
+[유통그룹사] 코드/정산시스템 운영 (어플리케이션 개발),"프론트엔드, 안드로이드, iOS",[]
+[유통그룹사] POS/승인시스템 운영 (어플리케이션 개발),"프론트엔드, 안드로이드, iOS",[]
+[소프트웨어사업본부] BE개발,서버/백엔드,"['Go', 'Node.js', 'Amazon Web Services(AWS)', 'Docker', 'Kubernetes', 'MySQL', 'Rancher', 'Gin']"
+[소프트웨어사업본부] FE개발,프론트엔드,"['ES6', 'TypeScript', 'Sass(SCSS)', 'styled-components', 'Vuetify.js', 'Vue CLI', 'Babylon.js', 'ReactJS', 'Webpack', 'Vue.js', 'JavaScript']"
+[2024년 상반기 공채] 데이터 엔지니어(DE) 신입사원 채용,데이터 엔지니어링,[]
+[2024년 상반기 공채] 프론트엔드 개발자 신입사원/경력 채용,프론트엔드,[]
+[2024년 상반기 공채] 자사몰 운영 퍼블리셔 신입사원/경력 채용,웹 퍼블리싱,[]
+Senior Data Analyst (O2O 서비스),데이터 엔지니어링,[]
+[멤버스IS팀] 서버 운영,시스템/네트워크,"['IBM AIX', 'Linux', 'Windows']"
+프론트엔드 개발,프론트엔드,"['TypeScript', 'zustand', 'Storybook', 'Jenkins', 'GitHub']"
+백앤드개발자,서버/백엔드,['Python']
+"Software Engineer, Private Clouds","서버/백엔드, 데브옵스","['Python', 'OpenStack']"
+[백화점IS팀] 마케팅시스템 운영,"서버/백엔드, 프론트엔드, 시스템 소프트웨어",[]
+[Riiid] Data Engineer,데이터 엔지니어링,[]
+서버 및 인프라 개발자,"서버/백엔드, 시스템/네트워크, 데브옵스","['GitHub Actions', 'Python', 'Shell Script', 'Linux', 'Terraform', 'Ansible']"
+DevOps 개발자,"서버/백엔드, 시스템/네트워크, 데브옵스","['GitHub Actions', 'Python', 'Shell Script', 'Linux', 'Terraform', 'Ansible', 'Kubernetes']"
+웹 그래픽(F/E) 개발자,"프론트엔드, 웹 퍼블리싱, 그래픽스","['HTML5', 'CSS', 'JavaScript', 'ES6', 'Vue.js', 'Nuxt.js', 'ReactJS', 'AngularJS', 'Angular', 'Webpack', 'Babel', 'REST API', 'Vanilla JS', 'Rust']"
+임베디드 소프트웨어/펌웨어 주니어 개발자,"임베디드 소프트웨어, 사물인터넷(IoT)","['C', 'Assembly', 'BLE(Bluetooth Low Energy)']"
+개발팀_팀장부문,"서버/백엔드, 시스템 소프트웨어, 개발PM","['Java', 'Swift', 'React Native', 'Django']"
+Data Scientist,"머신러닝, 데이터 엔지니어링",[]
+PHP 풀스택 개발자,"서버/백엔드, 웹 풀스택, 웹 퍼블리싱","['PHP', 'Java', 'Laravel']"
+React Native 개발 (주)비비바바(VIVIVAVA),"프론트엔드, 안드로이드, 크로스 플랫폼",['React Native']
